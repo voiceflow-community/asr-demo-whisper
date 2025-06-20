@@ -71,3 +71,5 @@ If you change the endpoint, you will also need to change the `target` variable i
 ## Next steps
 
 You can host and run the custom ASR webservice on your own server and use it in your next Voiceflow Voice Assistant integration.
+
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=voiceflow-community_asr-demo-whisper&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=voiceflow-community_asr-demo-whisper)
